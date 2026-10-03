@@ -9,6 +9,7 @@ and a series header in its README. This profile README is the series index.
 | # | Paper | Repository | Status |
 |---|-------|------------|--------|
 | 01 | User Interface and Extension Architecture in Industrial Simulation Software: An Empirical Study of 46 Tools | [paper01-sim-ui-replication](https://github.com/daheix/paper01-sim-ui-replication) (v1.0.0; dataset archive: [industrial-sim-ui-survey](https://github.com/daheix/industrial-sim-ui-survey) v1.2.0) | Manuscript in submission (Empirical Software Engineering) |
+| 02 | Root-Cause Analysis and Referee Criteria for Discrepant FEM Torque Formulations under Mesh Refinement (working title) | [paper02-torque-arbitration](https://github.com/daheix/paper02-torque-arbitration) (v0.1.0 skeleton) | Experiment matrix executing |
 
 ## Conventions
 
