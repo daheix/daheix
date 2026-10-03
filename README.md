@@ -8,7 +8,7 @@ and a series header in its README. This profile README is the series index.
 
 | # | Paper | Repository | Status |
 |---|-------|------------|--------|
-| 01 | User Interface and Extension Architecture in Industrial Simulation Software: An Empirical Study of 46 Tools | `paper01-sim-ui-replication` (replication package in preparation; precursor dataset archive: [industrial-sim-ui-survey](https://github.com/daheix/industrial-sim-ui-survey) v1.1.0) | Manuscript in submission (Empirical Software Engineering) |
+| 01 | User Interface and Extension Architecture in Industrial Simulation Software: An Empirical Study of 46 Tools | [paper01-sim-ui-replication](https://github.com/daheix/paper01-sim-ui-replication) (v1.0.0; dataset archive: [industrial-sim-ui-survey](https://github.com/daheix/industrial-sim-ui-survey) v1.2.0) | Manuscript in submission (Empirical Software Engineering) |
 
 ## Conventions
 
